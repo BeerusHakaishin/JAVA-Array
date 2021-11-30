@@ -21,7 +21,7 @@ class Movie {
     	  	System.out.println("In the movie "+ filmTitles[i] + ", the principals actors are : ");
         
       for (int j = 0; j < actors[i].length; j++){
-            System.out.println("-" + actors[i][j]);}  
+            System.out.println("- " + actors[i][j]);}  
       };
       
 
